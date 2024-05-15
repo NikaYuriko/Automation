@@ -1,0 +1,15 @@
+def console(num):
+    print(num, end= "")
+
+console("8")
+console("8")
+console("0")
+console("0")
+console("0")
+console("5")
+console("5")
+console("5")
+console("3")
+console("5")
+console("3")
+console("5")
