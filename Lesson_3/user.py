@@ -11,7 +11,7 @@ class User:
         print("Моя фамилия", self.last_name)
     
      def sayFullname(self):
-        print("Мои ФИО", first_name, last_name)
+        print("Мои ФИО", self.first_name, self.last_name)
 
 
     
