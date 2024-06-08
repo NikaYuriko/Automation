@@ -4,5 +4,5 @@ class Address:
         self.postcode = postcode
         self.city = city
         self.street = street
-        self.buillding = building
+        self.building = building
         self.apartment = apartment
